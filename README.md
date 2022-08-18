@@ -3,4 +3,4 @@ links
 
 https://google.com
 
-https://render.page
+https://bing.com
